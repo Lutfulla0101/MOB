@@ -4,7 +4,7 @@ const MOB = (() => {
 
   const TOAST_MS = 2800;
   const FAV_KEY = 'mob_favs';
-  const PHONE_LINK = 'tel:+998901234567';
+  const PHONE_LINK = 'tel:+998939781919';
 
   const $ = (sel) => document.querySelector(sel);
   const $$ = (sel) => [...document.querySelectorAll(sel)];

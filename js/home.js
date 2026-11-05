@@ -57,7 +57,7 @@
     form.elements.name.classList.toggle('invalid', !nameOk);
     form.elements.phone.classList.toggle('invalid', !phoneOk);
     if (!nameOk) return { error: 'Iltimos, ismingizni kiriting (kamida 2 harf).' };
-    if (!phoneOk) return { error: "Telefon raqam noto'g'ri. Namuna: +998 90 123 45 67" };
+    if (!phoneOk) return { error: "Telefon raqam noto'g'ri. Namuna: +998 93 978 19 19" };
     return { name };
   };
 
